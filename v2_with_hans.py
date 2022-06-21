@@ -43,8 +43,7 @@ app.layout = html.Div(className = 'container', children = [
 
         html.H4(children = 'Background Information'),
         html.H6(children = '''
-        We can see that the rate of vulnerability has been steadily increasing, 
-        while readiness has been declining for a continous amount of time for quite some time.
+        Climate change poses significant challenges to Southeast Asia. With agriculture accounting for more than 10% of GDP in most countries in this region, the agriculture industry is highly sensitive to the extreme weather events. The continuous rise in climate vulnerability of most countries in this region, as well as the lowering trend of climate readiness bar few exceptions makes a compelling case for action. To facilitate this, we create a dashboard that summarizes high-level essential information in order to present stakeholders with all the necessary tools to make data-driven, high-impact decisions.
         '''
         ),
 
