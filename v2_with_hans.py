@@ -48,10 +48,12 @@ app.layout = html.Div(className = 'container', children = [
         ),
 
         html.Div(className = 'col-sm', children = [
-            html.Img(src=app.get_asset_url('readiness.png'), width=600, height=400)
+            # html.Img(src=app.get_asset_url('readiness.png'), width=600, height=400)
+            html.Div(className='col-6', children=[dcc.Graph(id='insert_new_name')])
             ]),
         html.Div(className="col-sm", children = [
-            html.Img(src=app.get_asset_url('vulnerability.png'), width=600, height=400)])
+            # html.Img(src=app.get_asset_url('vulnerability.png'), width=600, height=400)])
+            html.Div(className='col-6', children=[dcc.Graph(id='insert_new_cols')])
     ]),
 
     html.Hr(),
