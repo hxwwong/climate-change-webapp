@@ -1,7 +1,7 @@
 ## About the App
 The Web App in this folder is titled "Signs in the Southeast: A Web App for Climate Change Response Assessment in ASEAN." It is a visualization app made through Dash, visualizing several climate change and sustainability indices of countries in the Association of Southeast Asian Nations.
 
-The App was coded through Visual Studio Code. This visualization app is part of the course requirement for Data Visualization in the Data Science Minor of De La Salle University - Manila.
+The application was coded through Visual Studio Code. This visualization app is part of the course requirement for Data Visualization in the Data Science Minor of De La Salle University - Manila.
 
 ## Usage
 ### Requirements
